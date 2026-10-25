@@ -2,9 +2,9 @@
 
 Interactive dashboard that compares Facebook Ads and Google Ads performance, built from raw multi-table data.
 
-**Live dashboard:** [Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+**Live dashboard:** [Tableau Public](https://public.tableau.com/views/Book4_17923248175590/MarketingPerformanceDashboard)
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](Dashboard.png)
 
 ## Goal
 
@@ -69,6 +69,5 @@ Four tables in the `public` schema:
 .
 ├── README.md
 ├── marketing_dashboard_dataset.sql
-└── images/
-    └── dashboard.png
+└── Dashboard.png
 ```
